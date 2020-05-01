@@ -1,0 +1,5 @@
+*.gitignore filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
+*.py filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+zip_files/challenges/fc13.zip filter=lfs diff=lfs merge=lfs -text
